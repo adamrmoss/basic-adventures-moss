@@ -1,0 +1,1 @@
+x16emu -echo -joy1 -fsroot . -scale 2&
