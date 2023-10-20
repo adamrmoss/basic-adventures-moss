@@ -1,3 +1,9 @@
+# macOS
+.DS_Store
+
+# X16 Emu
+dump*.bin
+
 # Logs
 logs
 *.log
