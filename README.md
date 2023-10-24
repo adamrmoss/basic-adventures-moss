@@ -13,7 +13,7 @@ Materials for the Book "BASIC Adventures with Professor Moss"
 ### [Chapter 2: Getting the Band Back Together](2-PROGRAMMER/2-GETTING-THE-BAND-BACK-TOGETHER/index.md)
 ### [Chapter 3: Reading the Scrolls](2-PROGRAMMER/3-READING-THE-SCROLLS/index.md)
 ### [Chapter 4: Cycles of the Stars](2-PROGRAMMER/4-CYCLES-OF-THE-STARS/index.md)
-### [Chapter 5: To the Moon](2-PROGRAMMER/5-TO-THE-MOON/index.md)
+### [Chapter 5: Connecting the Dots](2-PROGRAMMER/5-CONNECTING-THE-DOTS/index.md)
 
 ## [Level 3: Engineer](3-ENGINEER/index.md)
 ### [Chapter 1: Simulation of Life](3-ENGINEER/1-SIMULATION-OF-LIFE/index.md)
