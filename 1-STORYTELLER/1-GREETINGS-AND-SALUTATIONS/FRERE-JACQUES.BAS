@@ -63,3 +63,4 @@
 520 PRINT ", DON.";
 
 530 PSGPLAY 0, "> C2"
+540 END
